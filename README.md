@@ -3,7 +3,6 @@
 ## Overview
 The **Solana Volume Bot** is a sophisticated automation tool designed to facilitate the distribution of SOL across multiple wallets and execute concurrent buy and sell swap transactions on the **Raydium** and **Meteora** decentralized exchanges. By leveraging the power of the **Solana blockchain**, this bot enables high-efficiency operations, ensuring fast and seamless transactions.
 
-[Youtube Video Guide](https://youtu.be/ngAKHbosvT0)
 
 ## 🔥Features
 
@@ -76,7 +75,7 @@ LOG_LEVEL=info               # Logging level (info, debug, error)
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/justshiftjk/Solana-Volume-Bot
+git clone https://github.com/trust412/Solana-Volume-Bot
 ```
 2. Install dependencies
 ```
@@ -96,5 +95,5 @@ npm start
 
 If you have any questions or want a more customized app for specific use cases, don't hesitate to get in touch with me to the contacts below.
 
-- E-Mail: adamglab0731.pl@gmail.com
-- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
+- E-Mail: smart@trust412.pro
+- Telegram: [@smart](https://t.me/rannieturla)
